@@ -1,0 +1,3 @@
+﻿  sisteminis3.cpp
+C:\Users\simon\source\repos\sisteminis3\sisteminis3\sisteminis3.cpp(170,80): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  sisteminis3.vcxproj -> C:\Users\simon\source\repos\sisteminis3\x64\Debug\sisteminis3.exe
